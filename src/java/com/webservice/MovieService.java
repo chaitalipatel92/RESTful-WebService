@@ -25,10 +25,6 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.Statement;
 
-/**
- *
- * @author amitabh
- */
 @Path("/movieservice")
 public class MovieService {
 
